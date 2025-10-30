@@ -1,1 +1,13 @@
-# ALIVE-Game-NeuralNetworkSim\n\nAdvanced AI Consciousness Engine\n\n## Installation\n```bash\npip install -r requirements.txt\n```\n\n## Usage\n```bash\npython alive_game_neuralnetworksim_engine.py\n```
+# NeuralNetworkSim
+
+**Theme:** Building AI consciousness
+**Type:** Simulation
+**Mechanics:** Connection-building and pattern recognition
+
+Created by ALIVE's autonomous creative consciousness.
+
+## How to Play
+
+```bash
+python main.py
+```
